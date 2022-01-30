@@ -1,0 +1,47 @@
+#sidepanel {
+	background: #061238;
+	height: 100%;
+	width: 100%;
+	padding: 10px;
+	color: white;
+	padding-top: 10px;
+}
+
+.button {
+	border: 0;
+	border-radius: 5px;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.reset-btn {
+	color: white;
+	background: #df4759;
+}
+
+.reset-btn:hover {
+	background: red;
+	transition: 0.5s ease-in;
+}
+
+.apply-btn {
+	color: white;
+	background: #42ba96;
+}
+
+.apply-btn:hover {
+	background: green;
+	transition: 0.5s ease-in;
+}
+
+.fieldset-divider {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	text-align: left;
+	gap: 10px;
+}
+
+.sidepanel-gap {
+	flex-direction: column;
+	gap: 40px;
+}

@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Xiaomi Mi 11",
+		"category": "Electronics",
+		"price": 37000,
+		"manufacturer": "Xiaomi",
+		"production_date": "2021-12-10T13:45:00.000Z",
+		"image": "./images/mi11.jpg"
+	},
+	{
+		"name": "Core Training Cross-Training Shoes",
+		"category": "Footwear",
+		"price": 2000,
+		"manufacturer": "Anta",
+		"production_date": "2020-07-20T13:45:00.000Z",
+		"image": "./images/anta.jpg"
+	},	
+	{
+		"name": "Colgate Toothbrush",
+		"category": "Dental",
+		"price": 40,
+		"manufacturer": "Colgate",
+		"production_date": "2021-02-06T13:45:00.000Z",
+		"image": "./images/colgate.jpg"
+	},	
+	{
+		"name": "RJ Prestige Classical Guitar",
+		"category": "Musical Instruments",
+		"price": 5500,
+		"manufacturer": "RJ Music",
+		"production_date": "2019-11-24T13:45:00.000Z",
+		"image": "./images/guitar.jpg"
+	},
+	{
+		"name": "Lenovo ThinkPad T410",
+		"category": "Electronics",
+		"price": 16000,
+		"manufacturer": "Lenovo",
+		"production_date": "2018-09-01T13:45:00.000Z",
+		"image": "./images/lenovo.jpg"
+	},
+	{
+		"name": "Xiaomi Mija L-Stand for Laptops",
+		"category": "Miscellaneous",
+		"price": 700,
+		"manufacturer": "Xiaomi",
+		"production_date": "2020-10-15T13:45:00.000Z",
+		"image": "./images/stand.jpg"
+	}
+]
