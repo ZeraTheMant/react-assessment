@@ -112,7 +112,7 @@ function App() {
 								}) :
 								(
 									<tr>
-										rwerwe
+										<td colspan="7">No data found.</td>
 									</tr>						
 								)
 							} 
@@ -124,6 +124,8 @@ function App() {
 					<Sidepanel setProducts={setProducts} setOptionsOpen={setOptionsOpen}/>
 				</div>
 			</div>
+			
+			<footer>Made by Reuben Daniel E. Domondon</footer>			
     </div>
   );
 }
